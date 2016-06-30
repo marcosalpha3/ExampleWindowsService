@@ -12,7 +12,7 @@
       <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="Horario" Type="System.String" Scope="User">
-      <Value Profile="(Default)">23:00:01</Value>
+      <Value Profile="(Default)">23:00:02</Value>
     </Setting>
   </Settings>
 </SettingsFile>
