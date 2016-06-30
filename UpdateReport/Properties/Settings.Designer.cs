@@ -61,7 +61,7 @@ namespace UpdateReport.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("22:00:00")]
+        [global::System.Configuration.DefaultSettingValueAttribute("22:00:01")]
         public string Horario {
             get {
                 return ((string)(this["Horario"]));
